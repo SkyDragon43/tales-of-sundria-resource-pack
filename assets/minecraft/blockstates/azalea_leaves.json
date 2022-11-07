@@ -1,0 +1,12 @@
+{
+    "variants": {
+      "persistent=true": [
+            { "model": "minecraft:block/azalea_leaves_1" },
+            { "model": "minecraft:block/azalea_leaves_2" }
+       ],
+      "persistent=false": [
+            { "model": "minecraft:block/sakura_leaves_1" },
+            { "model": "minecraft:block/sakura_leaves_2" }
+      ]
+    }
+  }

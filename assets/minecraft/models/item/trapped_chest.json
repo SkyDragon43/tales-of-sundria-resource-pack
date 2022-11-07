@@ -1,0 +1,7 @@
+{
+    "parent": "rpg:item/unkown",
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "rpg:chest/common_chest"},
+        {"predicate": {"custom_model_data": 2}, "model": "rpg:chest/common_chest_top"}
+    ]
+}

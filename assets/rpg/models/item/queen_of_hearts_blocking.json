@@ -1,0 +1,23 @@
+{
+	"parent":"rpg:item/queen_of_hearts",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, 135, 0],
+			"translation": [9.1, 1.25, -3.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, 135, 0],
+			"translation": [9.1, 1.25, -3.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, -5],
+			"translation": [-4.155, -4.09, -11],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, -5],
+			"translation": [-4.155, -4.09, -11],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}

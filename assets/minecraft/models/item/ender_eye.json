@@ -1,0 +1,20 @@
+{
+        "parent": "minecraft:item/generated",
+        "textures": {
+        "layer0": "minecraft:item/ender_eye"
+    },
+        "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "rpg:item/floreted_gavel"},
+        {"predicate": {"custom_model_data": 2}, "model": "rpg:item/gilded_ruby_hammer"},
+        {"predicate": {"custom_model_data": 3}, "model": "rpg:item/gazing_strike"},
+        {"predicate": {"custom_model_data": 4}, "model": "rpg:item/ace_of_spades"},
+        {"predicate": {"custom_model_data": 5}, "model": "rpg:item/yearn"},
+        {"predicate": {"custom_model_data": 6}, "model": "rpg:item/allegiance"},
+        {"predicate": {"custom_model_data": 7}, "model": "rpg:item/gilded_ruby_spear"},
+        {"predicate": {"custom_model_data": 8}, "model": "rpg:item/wooden_wand"},
+        {"predicate": {"custom_model_data": 9}, "model": "rpg:item/faithless"},
+        {"predicate": {"custom_model_data": 10}, "model": "rpg:item/hydrangea"},
+        {"predicate": {"custom_model_data": 11}, "model": "rpg:item/avalanche"},
+        {"predicate": {"custom_model_data": 12}, "model": "rpg:item/gilded_ruby_staff"}
+    ]
+}

@@ -1,0 +1,97 @@
+{
+  "container.isLocked": "",
+  
+  "item.rpg.mana_vial": "Mana Vial",
+  "item.rpg.mana_potion": "Mana Potion",
+  "item.rpg.mana_flask": "Mana Flask",
+
+  "item.rpg.hailstorm": "Hailstorm",
+  "item.rpg.hydrangea": "Hydrangea",
+  "item.rpg.faithless": "Faithless",
+  "item.rpg.wooden_wand": "Wooden Wand",
+  "item.rpg.starlight": "Starlight",
+
+  "item.rpg.queen_of_hearts": "Queen of Hearts",
+  "item.rpg.queen_of_hearts.description.0": "The Queen of Hearts. Legend",
+  "item.rpg.queen_of_hearts.description.1": "speaks of a queen whose heart",
+  "item.rpg.queen_of_hearts.description.2": "was broken during the war.",
+  "item.rpg.queen_of_hearts.description.3": "Seeking revenge, she took",
+  "item.rpg.queen_of_hearts.description.4": "this shield and destroyed",
+  "item.rpg.queen_of_hearts.description.5": "what once destroyed her.",
+
+  "item.rpg.farmers_boots": "Farmer's Boots",
+  "item.rpg.farmers_trousers": "Farmer's Trousers",
+  "item.rpg.farmers_tunic": "Farmer's Tunic",
+  "item.rpg.farmers_hat": "Farmer's Hat",
+
+
+  "item.rpg.copper_coin": "Copper Coin",
+  "item.rpg.silver_coin": "Silver Coin",
+  "item.rpg.gold_coin": "Gold Coin",
+  "item.rpg.platinum_coin": "Platinum Coin",
+
+
+  "death.attack.outOfWorld": "§c☠ §e%1$s§r died",
+  "death.attack.outOfWorld.player": "§c☠ §e%1$s§r perished by the hands of §e%2$s§r",
+
+
+
+  "rpg.stats.level": "§7Lvl %s",
+  "rpg.stats.health": "§7  §c❤ §7Health %s",
+
+  "rpg.stats.mana.max": "§7  §b❤ §7Mana %s",
+  "rpg.stats.mana.regen": "§7  §b❤ §7Mana Regen %s",
+  "rpg.stats.mana.steal": "§7  §b❤ §7Mana Steal %s",
+
+  "rpg.stats.damage": "§7  §c⚔ §7Damage %s",
+  "rpg.stats.damage.neutral": "§7    %s §7Neutral DMG §6🗡",
+  "rpg.stats.damage.earth": "§7    %s §7Earth DMG §2⚔",
+  "rpg.stats.damage.water": "§7    %s §7Water DMG §b🌧",
+  "rpg.stats.damage.fire": "§7    %s §7Fire DMG §c🔥",
+  "rpg.stats.damage.air": "§7    %s §7Air DMG §f☁",
+
+  "rpg.stats.damage_bonus": "§7  §c⚔ §7Damage Bonuses%s",
+  "rpg.stats.damage_bonus.neutral": "§7    §a+%s §6🗡 §7Neutral DMG",
+  "rpg.stats.damage_bonus.earth": "§7    §a+%s §2⚔ §7Earth DMG",
+  "rpg.stats.damage_bonus.water": "§7    §a+%s §b🌧 §7Water DMG",
+  "rpg.stats.damage_bonus.fire": "§7    §a+%s §c🔥 §7Fire DMG",
+  "rpg.stats.damage_bonus.air": "§7    §a+%s §f☁ §7Air DMG",
+
+  "rpg.stats.crit": "§7  §c⚔ §7Critical",
+  "rpg.stats.crit.chance": "§7  §6⚄ §7Critical Chance §a%s",
+  "rpg.stats.crit.damage": "§7  §6↑ §7Critical Damage §a%s",
+
+  "rpg.rarity.0": "Junk Item",
+  "rpg.rarity.1": "Common Item",
+  "rpg.rarity.2": "Unique Item",
+  "rpg.rarity.3": "Rare Item",
+  "rpg.rarity.4": "Epic Item",
+  "rpg.rarity.5": "Legendary Item",
+  "rpg.rarity.6": "Fabled Relic",
+  "rpg.rarity.7": "Quest Item",
+
+  "rpg.quest_book.page": "§f",
+  "rpg.quest_book.cover": "§f",
+  "rpg.quest_book.table_of_contents": "§f",
+  "rpg.quest_book.table_of_contents_cont": "§f",
+  "rpg.quest_book.map": "§f",
+
+
+
+  "rpg.dialog.start": "-Dialog Begin",
+  "rpg.dialog.end": "-Dialog End-",
+
+  "rpg.dialog.option.1": "Click Me!",
+  "rpg.dialog.option.2": "or Me!",
+  "rpg.dialog.option.3": "I'm the best!",
+  "rpg.dialog.option.4": "so am I!",
+  "rpg.dialog.option.5": "Choose me!",
+
+
+  "rpg.quest_start": "Quest Started - %s",
+
+
+  "rpg.quest.the_frozen_crypt": "The Frozen Crypt"
+}
+
+

@@ -1,0 +1,12 @@
+{
+        "parent": "minecraft:item/generated",
+        "textures": {
+        "layer0": "minecraft:item/potion_overlay",
+        "layer1": "minecraft:item/potion"
+    },
+        "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "rpg:item/mana_vial"},
+        {"predicate": {"custom_model_data": 2}, "model": "rpg:item/mana_potion"},
+        {"predicate": {"custom_model_data": 3}, "model": "rpg:item/mana_flask"}
+    ]
+}
