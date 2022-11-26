@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/bowl"
+    },
+        "overrides": [
+            {"predicate": {"custom_model_data": 1}, "model": "rpg:cannon/cannon_base"},
+            {"predicate": {"custom_model_data": 2}, "model": "rpg:cannon/cannon_barrel"},
+            {"predicate": {"custom_model_data": 3}, "model": "rpg:cannon/cannonball"}
+    ]
+}

@@ -20,5 +20,10 @@
   "notes.piano.c5_4": {"sounds": [{"name": "rpg:notes/piano_sounds/c5_4"}]},
   "notes.piano.c6_4": {"sounds": [{"name": "rpg:notes/piano_sounds/c6_4"}]},
   "notes.piano.c7_4": {"sounds": [{"name": "rpg:notes/piano_sounds/c7_4"}]},
-  "notes.piano.c8_4": {"sounds": [{"name": "rpg:notes/piano_sounds/c8_4"}]}
+  "notes.piano.c8_4": {"sounds": [{"name": "rpg:notes/piano_sounds/c8_4"}]},
+
+
+  "notes.drumset.bass_drum_1": {"sounds": [{"name": "rpg:notes/drumset/base_drum_1"}]},
+  "notes.drumset.acoustic_snare": {"sounds": [{"name": "rpg:notes/drumset/acoustic_snare"}]},
+  "notes.drumset.closed_hi_hat": {"sounds": [{"name": "rpg:notes/drumset/closed_hi_hat"}]}
 }
